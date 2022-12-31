@@ -2,7 +2,7 @@
 
 - [x] Albino Drake Phase 1 Achievement Leading the Cavalry
 - [ ] Violet Proto-Drake Phase 1 Achievement Achievement
-- [ ] Red Dragonhawk Mount Phase 1 Achievement Mountain o' Mounts
+- [x] Red Dragonhawk Mount Phase 1 Achievement Mountain o' Mounts
 - [x] Black War Bear Phase 1 Achievement For The Horde!
 - [x] Red Proto-Drake Phase 1 Achievement Glory of the Hero
 - [x] Plagued Proto-Drake Phase 2 Achievement Glory of the Raider (10 Player)
@@ -17,7 +17,7 @@
 # Drops
 
 - [x] Amani War Bear
-- [ ] Kalu'ak Whalebone Glider Phase 1 Collector's Edition  
+- [x] Kalu'ak Whalebone Glider Phase 1 Collector's Edition  
 - [ ] Raven Lord Phase 1 Drop Anzu Sethekk Halls
 - [ ] X-45 Heartbreaker Phase 1 Drop Apothecary Hummel (Eventboss Valentine's Day)
 - [ ] Fiery Warhorse's Reins Phase 1 Drop Attumen the Huntsman Karazhan (10N)
@@ -68,8 +68,8 @@
 # Professions
 
 - [x] Sea Turtle Phase 1 Profession Fished
-- [ ] Flying Carpet Phase 1 Profession Flying Carpet Tailoring
-- [ ] Magnificent Flying Carpet Phase 1 Profession Magnificent Flying Carpet Tailoring
+- [x] Flying Carpet Phase 1 Profession Flying Carpet Tailoring
+- [x] Magnificent Flying Carpet Phase 1 Profession Magnificent Flying Carpet Tailoring
 - [ ] Frosty Flying Carpet Phase 3 Profession Frosty Flying Carpet Tailoring
 - [x] Flying Machine Control Phase 1 Profession Flying Machine Engineering
 - [x] Turbo-Charged Flying Machine Phase 1 Profession Turbo-Charged Flying Machine Engineering
